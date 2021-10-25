@@ -1,6 +1,6 @@
 {
   "name": "react-provied-form",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,9 @@
   },
   "keywords": ["react", "react-hook", "react form"],
   "author": "thienquang <thienquang@laptrinhvien.dev>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quangthienit1994/react-provied-form.git"
+  }
 }
